@@ -8,7 +8,7 @@ Spotify Genre Classification
 We selected this Topic becuase we are all interesed in how various metrics play into song classifcation.  
 
 ✓ Description of their source of data
-This data is sourced form a SPotify API, obtained through Kaggle 
+This data is sourced form a Spotify API, obtained through Kaggle 
 
 ✓ Questions they hope to answer with the data
 Do tracks line up with assigned genre determined by a machine learning algorthim.
