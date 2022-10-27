@@ -1,4 +1,4 @@
-## Group PRoject- Module20
+## Group Project- Module20
 
 
 ✓ Selected topic
@@ -19,4 +19,4 @@ Do tracks line up with assigned genre determined by a machine learning algorthim
 We will commuicating via Slack and planning to asses where we are Wednesday nights and plan out a time to meeet if needed.
 
 Breakdown of responsiblities 
-* All Work done together for deliverable 1
+* All Wwrk done together for Deliverable 1
