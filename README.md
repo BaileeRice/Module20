@@ -23,7 +23,9 @@ Breakdown of responsiblities
 ## Segment #2
 
 ✓ Description of the communication protocols 
+
 All communication within the group took place in either Slack or during our the usual class time where we were split it to meet with each other.
 
 ✓ Basic outline of the project
+
 Our project focuses on classification. We look at how different attributes such as the duration of a song or its instrumental influences its classification using the unsupervised machine learning method. 
