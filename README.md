@@ -20,4 +20,5 @@ We will commuicating via Slack and planning to assess where we are Wednesday nig
 
 Breakdown of responsiblities 
 * All Work done together for Deliverable 1
-Segment #2
+* Segment #2
+* 
