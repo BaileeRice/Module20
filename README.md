@@ -28,4 +28,4 @@ All communication within the group took place in either Slack or during our the 
 
 ✓ Basic outline of the project
 
-Our project focuses on classification. We look at how different attributes such as the duration of a song or its instrumental(just to name a few) influences its classification using the unsupervised machine learning method. 
+Our project focuses on classification. We look at how different attributes such as the duration of a song or its instrumental (just to name a few) influences its classification using the unsupervised machine learning method. 
