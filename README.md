@@ -32,6 +32,7 @@ Our project focuses on classification. We look at how different attributes such 
 The links below include our slides and draft of the dashboard that will be included in our final one:
 
 Tableau: https://public.tableau.com/app/profile/bailee.rice/viz/Spotifyset_16680472086120/Dashboard5?publish=yes
+
 Google Slide: https://docs.google.com/presentation/d/1y_DgnlQ9wYASojwS9idZCyP-hs8Qp631jknh44w6OYo/edit?usp=sharing
 
 
