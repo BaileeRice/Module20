@@ -36,3 +36,21 @@ Tableau: https://public.tableau.com/app/profile/bailee.rice/viz/Spotifyset_16680
 Google Slide: https://docs.google.com/presentation/d/1y_DgnlQ9wYASojwS9idZCyP-hs8Qp631jknh44w6OYo/edit?usp=sharing
 
 
+
+
+
+
+Main Branch All code in the main branch is productionready.
+Main branch should include: ✓ All code necessary to perform exploratory
+analysis ✓ Most code necessary to complete the
+machine learning portion of the project
+README.md README.md must include: ✓ Description of the communication
+protocols has been removed ✓ Cohesive, structured outline of the project
+(this may include images, but should be easy
+to follow and digest) ✓ Link to Google Slides draft presentation
+Note: The descriptions and explanations
+required in all other project deliverables
+should also be in your README.md as part
+of your outline, unless otherwise noted.
+Individual Branches ✓ At least one branch for each team member ✓ Each team member has at least four
+commits for the duration of the th
