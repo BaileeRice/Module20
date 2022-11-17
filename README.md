@@ -10,3 +10,4 @@ With access to the many files containing different data about genre, we decided 
 ![Screenshot (30)](https://user-images.githubusercontent.com/108035567/202317031-8bd8353f-dd4a-4a2d-834c-8db15c10eaa2.png)
 
 A master data frame combining all data from all three genres was created and from this table we 
+mj![image](https://user-images.githubusercontent.com/108035567/202345398-939cf29c-c16e-4986-9940-9c183b9472ce.png)
