@@ -10,4 +10,8 @@ With access to the many files containing different data about genre, we decided 
 ![Screenshot (30)](https://user-images.githubusercontent.com/108035567/202317031-8bd8353f-dd4a-4a2d-834c-8db15c10eaa2.png)
 
 A master data frame combining all data from all three genres was created and from this table we 
+
+Although unsupervised machine learning was a successful at showing patterns within the data as it relates the genre, it was not the best at accurately predicting genre while taking into consideration the 11 attributes in the table above. 
+A supervised version of the machine learning model was created, and upon testing, we found that it had a balanced accuracy score of 72.6%. We also found that speechiness, danceability, and acousticness were the top three biggest contributors of accurate genre prediction as shown in the image below.
 mj![image](https://user-images.githubusercontent.com/108035567/202345398-939cf29c-c16e-4986-9940-9c183b9472ce.png)
+
