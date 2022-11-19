@@ -34,7 +34,9 @@ Slides:https://docs.google.com/presentation/d/1y_DgnlQ9wYASojwS9idZCyP-hs8Qp631j
 Tableau
 Baseline Dashboard -https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/Baseline_1?publish=yes
 Track Breakdown Classification - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/SongClassificationBreakdown?publish=yes
+_________________________________________
 
 Baseline Attributes Story - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/BaselineAttributes?publish=yes
+
 Results Story - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/Results?publish=yes
 
