@@ -26,12 +26,15 @@ Although unsupervised machine learning was a successful at showing patterns with
 
 A supervised version of the machine learning model was created, and upon testing, we found that it had a balanced accuracy score of 72.6%. We also found that speechiness, danceability, and acousticness were the top three biggest contributors of accurate genre prediction as shown in the image below.
 
-mj![image](https://user-images.githubusercontent.com/108035567/202345398-939cf29c-c16e-4986-9940-9c183b9472ce.png)
+![image](https://user-images.githubusercontent.com/108035567/202345398-939cf29c-c16e-4986-9940-9c183b9472ce.png)
 
 
 Slides:https://docs.google.com/presentation/d/1y_DgnlQ9wYASojwS9idZCyP-hs8Qp631jknh44w6OYo/edit?usp=sharing
 
-Tableau
+_______________________________________
+
+#Tableau
+
 Baseline Dashboard -https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/Baseline_1?publish=yes
 Track Breakdown Classification - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/SongClassificationBreakdown?publish=yes
 _________________________________________
