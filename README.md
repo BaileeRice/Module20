@@ -28,7 +28,13 @@ A supervised version of the machine learning model was created, and upon testing
 
 mj![image](https://user-images.githubusercontent.com/108035567/202345398-939cf29c-c16e-4986-9940-9c183b9472ce.png)
 
+
 Slides:https://docs.google.com/presentation/d/1y_DgnlQ9wYASojwS9idZCyP-hs8Qp631jknh44w6OYo/edit?usp=sharing
 
-Tableau:https://public.tableau.com/app/profile/melanie.taylor6095/viz/Spotifyset/Story1
+Tableau
+Baseline Dashboard -https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/Baseline_1?publish=yes
+Track Breakdown Classification - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/SongClassificationBreakdown?publish=yes
+
+Baseline Attributes Story - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/BaselineAttributes?publish=yes
+Results Story - https://public.tableau.com/app/profile/melanie.taylor6095/viz/SpotifyMLClassifications/Results?publish=yes
 
