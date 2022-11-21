@@ -1,5 +1,4 @@
-# Module20
-## Segment #3
+# Spotify Analysis
 
 For this project, we were interested in seeing just how efficient a machine learning model will be at accurately predicting the genre of a song. We obtained dataset from Kaggle as it was one of the most popular ones out there, and from this dataset we decided to focus on four specific genres; Rock, R&B, Country, and Rap. All genre were solely chosen based on the fact that they contained the most data collected by spotify as shown in the graph below.
 (https://www.kaggle.com/datasets/thedevastator/popularity-of-spotify-top-tracks-by-genre?select=rap_playlist_tracks.csv).
